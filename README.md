@@ -1,4 +1,9 @@
 # ICD
+Integrantes:
+
+Arthur de Brito Bonifácio - 2019006370   
+Augusto Maillo Queiroga de Figueiredo - 2019006450  
+Eduardo Augusto Militão Fernandes - 2019006540
 
 * Link do vídeo: https://youtu.be/GZ1eCrCNJN8
 * Link do dataset: https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv
